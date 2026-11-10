@@ -1,0 +1,8 @@
+name            = ""
+main            = "index.ts"
+compatibility_date = "2024-01-01"
+
+# Use the ID of your Workers KV namespace.
+[[kv_namespaces]]
+binding = "BANNED_HWIDS"
+id      = "c360250a90794765ae9c55c62d2c0970"
